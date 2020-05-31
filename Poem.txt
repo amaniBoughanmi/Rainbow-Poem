@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and pionies
 
 purple 
 pink
@@ -7,7 +7,7 @@ blue
 green
 red
 yellow
-
+indigo
 Unicorn
 
 These are the colors of the rainbow and the Unicorn.
